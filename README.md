@@ -117,7 +117,9 @@ imShow('predictions.jpg')
  ```
  
  -----------------
- A sample output is shown as 
+ 
+ A sample output is shown as <br>
+ 
  ![result5](https://user-images.githubusercontent.com/78277453/204438523-8f755a17-7b89-4b12-8121-c0fa1ae968b4.png)
 
  
